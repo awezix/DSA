@@ -9,6 +9,7 @@ def cal_sum(li):
 array=[1,2,3,4,5,33]
 print(cal_sum(array))
 
+# calculate average of all element in the list
 
 def cal_avg(li):
     sum=0
