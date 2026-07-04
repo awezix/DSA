@@ -11,4 +11,4 @@ def count_even(no):
 array=[1,2,3,4,5,6,7,8,10]
 print(count_even(array))
     
-
+# Same for odd no just change (if n % 2 !=o)

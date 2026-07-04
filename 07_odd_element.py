@@ -11,3 +11,5 @@ def odd(arr):
 
 array=[1,2,3,4,5,6,7,8,91,2,33,45,44]
 print(odd(array))
+
+# same for even elements just change (if i % 2 == 0)
