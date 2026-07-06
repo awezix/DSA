@@ -20,6 +20,8 @@ print(sec_largst(arr))
 
 
 # Find the second smallest element.
+# just change the sign for second smallest
+ 
 def sec_smallest(arr):
    smallest=float("inf")
    s_smallest=float("inf")
