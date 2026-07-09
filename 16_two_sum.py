@@ -1,4 +1,4 @@
-# Find all pairs whose sum equals a target.allow duplicates
+# Find all pairs whose sum equals a target.
 
 def twosum(arr1:list,target:int)->list:
 
