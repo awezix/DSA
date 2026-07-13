@@ -2,7 +2,7 @@
 
 def replaceChar(text:str,old_char:str,new_char:str):
     result=""
-    for i in text:
+    for i in text.lower():
         if i == old_char:
             result+=new_char
         else:
@@ -11,4 +11,4 @@ def replaceChar(text:str,old_char:str,new_char:str):
 
 text="programming"
 
-print(replaceChar(text,"m","x"))
+print(replaceChar(text,"m","X"))
